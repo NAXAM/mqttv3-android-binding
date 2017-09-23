@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+	<attr
+		path="/api/package[@name='org.eclipse.paho.client.mqttv3']/class[@name='MqttClient']/field[@name='timeToWait']" name="managedName">
+        _timeToWait
+	</attr>
+    <attr
+        path="/api/package[@name='org.eclipse.paho.client.mqttv3.internal']/class[@name='Token']/field[@name='message']" name="managedName">
+        _message
+    </attr>
+    <attr
+        path="/api/package[@name='org.eclipse.paho.client.mqttv3.internal.wire']/class[@name='MqttConnack']/field[@name='KEY']" name="managedName">
+        KEY
+    </attr>
+    <attr
+        path="/api/package[@name='org.eclipse.paho.client.mqttv3.internal.wire']/class[@name='MqttConnect']/field[@name='KEY']" name="managedName">
+        KEY
+    </attr>
+    <attr
+        path="/api/package[@name='org.eclipse.paho.client.mqttv3.internal.wire']/class[@name='MqttDisconnect']/field[@name='KEY']" name="managedName">
+        KEY
+    </attr>
+    <attr
+        path="/api/package[@name='org.eclipse.paho.client.mqttv3.internal.wire']/class[@name='MqttPingReq']/field[@name='KEY']" name="managedName">
+        KEY
+    </attr>
+    <attr
+        path="/api/package[@name='org.eclipse.paho.client.mqttv3.internal.wire']/class[@name='MqttPingResp']/field[@name='KEY']" name="managedName">
+        KEY
+    </attr>
+    <attr
+        path="/api/package[@name='org.eclipse.paho.client.mqttv3.logging']/interface[@name='Logger']/field[@name='CONFIG']" name="managedName">
+        CONFIG
+    </attr>
+    <attr
+        path="/api/package[@name='org.eclipse.paho.client.mqttv3.logging']/interface[@name='Logger']/field[@name='FINE']" name="managedName">
+        FINE
+    </attr>
+    <attr
+        path="/api/package[@name='org.eclipse.paho.client.mqttv3.logging']/interface[@name='Logger']/field[@name='FINER']" name="managedName">
+        FINER
+    </attr>
+    <attr
+        path="/api/package[@name='org.eclipse.paho.client.mqttv3.logging']/interface[@name='Logger']/field[@name='FINEST']" name="managedName">
+        FINEST
+    </attr>
+    <attr
+        path="/api/package[@name='org.eclipse.paho.client.mqttv3.logging']/interface[@name='Logger']/field[@name='INFO']" name="managedName">
+        INFO
+    </attr>
+    <attr
+        path="/api/package[@name='org.eclipse.paho.client.mqttv3.logging']/interface[@name='Logger']/field[@name='SEVERE']" name="managedName">
+        SEVERE
+    </attr>
+    <attr
+        path="/api/package[@name='org.eclipse.paho.client.mqttv3.logging']/interface[@name='Logger']/field[@name='WARNING']" name="managedName">
+        WARNING
+    </attr>
+</metadata>
