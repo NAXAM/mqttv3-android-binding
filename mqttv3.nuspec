@@ -13,7 +13,7 @@
         <releaseNotes>Mqttv3 for Android v1.0.2</releaseNotes>
         <iconUrl>https://avatars1.githubusercontent.com/u/25535951</iconUrl>
         <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
-        <projectUrl>https://github.com/NAXAM/mpttv3-android-binding</projectUrl>
+        <projectUrl>https://github.com/NAXAM/mqttv3-android-binding</projectUrl>
         <copyright>Copyright (c) 2017 NAXAM</copyright>
         <tags>Xamarin.Android, mqttv3</tags>
         <dependencies>

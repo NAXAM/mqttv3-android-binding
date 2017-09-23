@@ -18,7 +18,7 @@ Install-Package Naxam.Mqttv3.Droid
 
 ## Usage
 
-Plz follow its origin guide [here](https://github.com/braintree/braintree-android-drop-in/blob/master/README.md).
+Plz follow its origin guide [here](https://github.com/eclipse/paho.mqtt.java/blob/master/README.md).
 
 ## License
 
