@@ -20,6 +20,19 @@ Install-Package Naxam.Mqttv3.Droid
 
 Plz follow its origin guide [here](https://github.com/eclipse/paho.mqtt.java/blob/master/README.md).
 
+## How to upgrade
+
+1. Dowload latest (or desired version) JAR file from https://mvnrepository.com/artifact/org.eclipse.paho/org.eclipse.paho.client.mqttv3
+2. Open project in Visual Studio
+3. Delete current JAR file in binding project
+4. Add newly downloaded JAR file to binding project
+5. Try to compile the whole solution
+5.1 Correct errors if any
+6. Build binding project in release mode
+7. Open Terminal/CMD at solution folder
+8. Amend `mqttv3.nuspec` file with new version
+8. Run `nuget pack`
+
 ## License
 
 MQTTV3 binding library for Android is released under the MIT license.

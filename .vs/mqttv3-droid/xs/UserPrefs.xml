@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{68C4E6B0-C264-4377-814F-AB8A90C04CF8}|Default">
+  <MonoDevelop.Ide.ItemProperties.Naxam.Mqttv3.Droid PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../Library/Frameworks/Xamarin.Android.framework/Versions/11.0.2.0/lib/xamarin.android/xbuild/Xamarin/Android/Xamarin.Android.Common.targets">
+    <Files>
+      <File FileName="../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/Android/Xamarin.Android.Common.targets" Line="2523" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="mqttv3-droid" expanded="True">
+            <Node name="demo" expanded="True">
+              <Node name="Mqttv3Qs" expanded="True" selected="True" />
+            </Node>
+            <Node name="Naxam.Mqttv3.Droid" expanded="True">
+              <Node name="Jars" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

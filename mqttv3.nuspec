@@ -3,14 +3,14 @@
     <metadata>
         <!-- Required elements-->
         <id>Naxam.Mqttv3.Droid</id>
-        <version>1.0.2</version>
+        <version>1.2.0</version>
         <authors>NAXAM CO.,LTD</authors>
         <owners>NAXAM CO.,LTD</owners>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <title>Naxam - Mqttv3 for Android</title>
         <summary>Xamarin.Android Binding Library - Mqttv3 for Android</summary>
         <description>Xamarin.Android Binding Library - Mqttv3 for Android</description>
-        <releaseNotes>Mqttv3 for Android v1.0.2</releaseNotes>
+        <releaseNotes>Mqttv3 for Android v1.2.0</releaseNotes>
         <iconUrl>https://avatars1.githubusercontent.com/u/25535951</iconUrl>
         <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
         <projectUrl>https://github.com/NAXAM/mqttv3-android-binding</projectUrl>
